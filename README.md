@@ -3,4 +3,4 @@ trabalho de exemplo 1
 
 #exemplo1 
 
-conectar github com o vs code 
+conectar github com o vscode 
